@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/devNattan/Gerador-De-Senhas#readme",
   "dependencies": {
+    "clipboard-copy": "^4.0.1",
     "nanoid": "^4.0.0",
     "sweetalert2": "^11.7.0",
     "vite": "^4.0.4"
