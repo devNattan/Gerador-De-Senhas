@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devNattan/Gerador-De-Senhas/issues"
   },
-  "homepage": "https://github.com/devNattan/Gerador-De-Senhas#readme"
+  "homepage": "https://github.com/devNattan/Gerador-De-Senhas#readme",
+  "dependencies": {
+    "nanoid": "^4.0.0"
+  }
 }
