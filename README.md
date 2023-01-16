@@ -1,2 +1,2 @@
-<h1>Link here:</h1> <br>
-<a>a-simple-password-generator.surge.sh</a>
+<h1>Link for the app here</h1><br>
+a-simple-password-generator.surge.sh
