@@ -1,1 +1,1 @@
-#[Gerador de senhas](https://a-simple-password-generator.surge.sh/)
+# [Gerador de senhas](https://a-simple-password-generator.surge.sh/)
